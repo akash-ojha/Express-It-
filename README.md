@@ -1,3 +1,3 @@
  Express-It-
 
-A paint apllication built using java.
+A paint application built using java.
